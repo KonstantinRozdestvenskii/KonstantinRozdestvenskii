@@ -29,6 +29,6 @@
 5) Сборщик Gulp
 
 # Мои контакты:
-Почта: kosta7497@gmail.com
-telegram: @kostyaroz
-WhatsApp: https://wa.me/79051165018
+Почта: kosta7497@gmail.com/n
+telegram: @kostyaroz/n
+WhatsApp: https://wa.me/79051165018/n
