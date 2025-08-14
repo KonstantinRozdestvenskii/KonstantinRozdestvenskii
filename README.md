@@ -28,7 +28,7 @@
 4) JS (jQuery, Native, Node.js)
 5) Сборщик Gulp
 
-# Мои работы:
+## Мои работы:
 [Лендинг для магазина ретро-велосипедов](https://konstantinrozdestvenskii.github.io/bice/)
 
 # Мои контакты:
