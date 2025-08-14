@@ -29,7 +29,7 @@
 5) Сборщик Gulp
 
 # Мои работы:
-[Лендинг для магазина ретро-велосипедов]([https://example.com](https://konstantinrozdestvenskii.github.io/bice/)  
+[Лендинг для магазина ретро-велосипедов](https://konstantinrozdestvenskii.github.io/bice/)
 
 # Мои контакты:
 Почта: kosta7497@gmail.com  
