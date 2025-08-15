@@ -30,6 +30,7 @@
 
 ## Мои работы:
 [Лендинг для магазина ретро-велосипедов](https://konstantinrozdestvenskii.github.io/bice/)
+[Лендинг для магазина французских пироженных "Маккарун"](https://konstantinrozdestvenskii.github.io/Maccaroons/)
 
 # Мои контакты:
 Почта: kosta7497@gmail.com  
