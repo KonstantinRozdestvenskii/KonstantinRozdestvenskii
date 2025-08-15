@@ -29,8 +29,8 @@
 5) Сборщик Gulp
 
 ## Мои работы:
-[Лендинг для магазина ретро-велосипедов](https://konstantinrozdestvenskii.github.io/bice/)
-[Лендинг для магазина французских пироженных "Маккарун"](https://konstantinrozdestvenskii.github.io/Maccaroons/)
+[Лендинг для магазина ретро-велосипедов](https://konstantinrozdestvenskii.github.io/bice/)  
+[Лендинг для магазина французских пироженных "Маккарун"](https://konstantinrozdestvenskii.github.io/Macaroons/)
 
 # Мои контакты:
 Почта: kosta7497@gmail.com  
