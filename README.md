@@ -35,7 +35,7 @@
 ## Мои работы:
 [Лендинг для магазина ретро-велосипедов](https://konstantinrozdestvenskii.github.io/bice/)  
 [Лендинг для магазина французских пироженых "Маккарун"](https://konstantinrozdestvenskii.github.io/Macaroons/)  
-[Лендинг для магазина летающих автомобилий "Horizon"](https://konstantinrozdestvenskii.github.io/Horizont/)
+[Лендинг для магазина летающих автомобилий "Horizon"](https://konstantinrozdestvenskii.github.io/Horizont/)  
 [Сайт тестирования "АйтилогияQuiz" (учебный проект)](quiz-frontend-sigma.vercel.app)
 
 ## Мои контакты:
