@@ -37,7 +37,7 @@
 [Лендинг для магазина французских пироженых "Маккарун"](https://konstantinrozdestvenskii.github.io/Macaroons/)  
 [Лендинг для магазина летающих автомобилий "Horizon"](https://konstantinrozdestvenskii.github.io/Horizont/)  
 [Сайт тестирования "АйтилогияQuiz" (учебный проект)](https://quiz-frontend-sigma.vercel.app)  
-[Панель управления "Freelance Studio" (учебный проект)](https://freelance-studio-frontend.vercel.app/)
+[Панель управления фрилансерами и заказами "Freelance Studio" (учебный проект)](https://freelance-studio-frontend.vercel.app/)
 
 
 ## Мои контакты:
