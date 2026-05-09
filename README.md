@@ -33,8 +33,8 @@
 5) Сборщики Webpack, Parsel, Grant, Gulp, Grunt=
 
 ## Мои работы:
-Учебные работы:
-[Лендинг для магазина ретро-велосипедов](https://bice-beta.vercel.app/)  
+Учебные работы:  
+[Лендинг для магазина ретро-велосипедов "Retro Bicycles](https://bice-beta.vercel.app/)  
 [Лендинг для магазина французских пироженых "Маккарун"](https://macaroons.vercel.app/)  
 [Лендинг для магазина летающих автомобилий "Horizon"](https://horizont-eight.vercel.app/)  
 [Сайт тестирования "АйтилогияQuiz"](https://quiz-frontend-sigma.vercel.app)  
