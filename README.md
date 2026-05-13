@@ -20,7 +20,7 @@
    4) Интернет-витрина
    5) Блог
 2. Многостраничные сайты
-   1) Многостраничное SPA-приложение с готовым бекендом на чистом JS
+   1) Многостраничное SPA-приложение с готовым бекендом на чистом JS или jQuery
 
 Я закончил бакалавриат СПбГЭТУ "ЛЭТИ" по направлению "Информатика и вычислительная техника", а также прохожу курс "Frontend-разработчик" в онлайн школе "Itlogia". 
 Мой диплом: https://drive.google.com/file/d/1dStue5G5h6UG4hNumXxupvcRTBtaTXtW/view?usp=sharing
@@ -30,13 +30,13 @@
 2) CSS
 3) LESS, SAAS, SCSS
 4) JS (jQuery, Native, Node.js)
-5) Сборщики Webpack, Parsel, Grant, Gulp, Grunt=
+5) Сборщики Webpack, Parsel, Grant, Gulp, Grunt
 
 ## Мои работы:
 Учебные работы:  
 [Лендинг для магазина ретро-велосипедов "Retro Bicycles](https://bice-beta.vercel.app/)  
 [Лендинг для магазина французских пироженых "Macaroons"](https://macaroons.vercel.app/)  
-[Лендинг для магазина летающих автомобилий "Horizon"](https://horizont-eight.vercel.app/)  
+[Лендинг для магазина летающих автомобилей "Horizon"](https://horizont-eight.vercel.app/)  
 [Сайт тестирования "АйтилогияQuiz"](https://quiz-frontend-sigma.vercel.app)  
 [Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio-frontend.vercel.app/)
 
