@@ -37,7 +37,7 @@
 [Лендинг для магазина ретро-велосипедов "Retro Bicycles](https://bice-beta.vercel.app/)  
 [Лендинг для магазина французских пироженых "Macaroons"](https://macaroons.vercel.app/)  
 [Лендинг для магазина летающих автомобилей "Horizon"](https://horizont-eight.vercel.app/)  
-[Сайт тестирования "АйтилогияQuiz"](https://quiz-frontend-sigma.vercel.app)  
+[Сайт тестирования "АйтилогияQuiz"](https://itlogia-quiz.web.app/)  
 [Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio.web.app/)  
 [Интернет-магазин "HomeDecor"](https://home-decor.web.app/)
 [Сайт веб-студии "ITStorm"](https://itstorm.firebaseapp.com/)  
