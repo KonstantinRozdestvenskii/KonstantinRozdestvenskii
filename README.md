@@ -8,9 +8,11 @@
 
 ## Я оказываю следующие услуги:
 1) Адаптивная вёрстка любого сайта по макету (Figma, Photoshop) и по ТЗ
-2) Добавление динамики сайта на JS (взаимодействие с пользователем, взаимодействие с серверной частью)
-3) Вёрстка сайта на основе шаблонов "под ключ" (Bootstrap, Tailwind)
-4) Размещение сайта на хостинге.
+2) Доработка существующего сайта
+3) Добавление динамики на сайт (работа с формами, анимации)
+5) Интеграция с API
+6) Вёрстка сайта "под ключ" на основе шаблонов из CSS-фреймворков (Bootstrap, Tailwind)
+7) Размещение сайта на хостинге.
 
 ## Типы сайтов, которые вы можете получить, работая со мной:
 1. Одностраничные сайты:
@@ -21,22 +23,28 @@
    5) Блог
 2. Многостраничные сайты
    1) Многостраничное SPA-приложение с готовым бекендом на чистом JS или jQuery
+   2) Многостраничное SPA-приложение с готовым бекендом на чистом TS
+   3) SPA-приложение на фреймворке Angular (v.14)
 
-Я закончил бакалавриат СПбГЭТУ "ЛЭТИ" по направлению "Информатика и вычислительная техника", а также прохожу курс "Frontend-разработчик" в онлайн школе "Itlogia". 
-Мой диплом: https://drive.google.com/file/d/1dStue5G5h6UG4hNumXxupvcRTBtaTXtW/view?usp=sharing
+Я закончил бакалавриат СПбГЭТУ "ЛЭТИ" по направлению "Информатика и вычислительная техника". Мой диплом: https://drive.google.com/file/d/1dStue5G5h6UG4hNumXxupvcRTBtaTXtW/view?usp=sharing  
+Также прошёл курс "Frontend-разработчик" в онлайн школе "Itlogia". Сертификат: https://itlogia.ru/certificates/course/996-73157
 
 ## Я использую следующие технологии:
 1) HTML5;
 2) CSS
-3) LESS, SAAS, SCSS
-4) JS (jQuery, Native, Node.js)
-5) Сборщики Webpack, Parsel, Grant, Gulp, Grunt
+3) LESS, SASS, SCSS
+4) CSS-фреймворки: Bootstrap, Tailwind
+5) JS (jQuery, Native, Node.js)
+6) TS
+7) Angular v14
+8) Сборщики Webpack, Parsel, Grant, Gulp, Grunt
 
 ## Мои работы:
 Учебные работы:  
-[Лендинг для магазина ретро-велосипедов "Retro Bicycles](https://bice-beta.vercel.app/)  
-[Лендинг для магазина французских пироженых "Macaroons"](https://macaroons.vercel.app/)  
-[Лендинг для магазина летающих автомобилей "Horizon"](https://horizont-eight.vercel.app/)  
+[Лендинг для магазина ретро-велосипедов "Retro Bicycles](https://retro-bicycles.web.app/)  
+[Лендинг для магазина французских пироженых "Macaroons"](https://maccaroons.web.app/)  
+[Лендинг для магазина летающих автомобилей "Horizon"](https://horizont.web.app/)  
+[Каталог чайных коллекций](https://tea-landing.web.app/)  
 [Сайт тестирования "АйтилогияQuiz"](https://itlogia-quiz.web.app/)  
 [Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio.web.app/)  
 [Интернет-магазин "HomeDecor"](https://home-decor.web.app/)
