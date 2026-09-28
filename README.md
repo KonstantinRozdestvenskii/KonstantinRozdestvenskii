@@ -38,7 +38,7 @@
 [Лендинг для магазина французских пироженых "Macaroons"](https://macaroons.vercel.app/)  
 [Лендинг для магазина летающих автомобилей "Horizon"](https://horizont-eight.vercel.app/)  
 [Сайт тестирования "АйтилогияQuiz"](https://quiz-frontend-sigma.vercel.app)  
-[Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio-frontend.vercel.app/)
+[Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio.firebaseapp.com/)
 
 
 ## Мои контакты:
