@@ -47,7 +47,7 @@
 [Каталог чайных коллекций](https://tea-landing.web.app/)  
 [Сайт тестирования "АйтилогияQuiz"](https://itlogia-quiz.web.app/)  
 [Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio.web.app/)  
-[Интернет-магазин "HomeDecor"](https://home-decor.web.app/)
+[Интернет-магазин "HomeDecor"](https://home-decor.web.app/)  
 [Сайт веб-студии "ITStorm"](https://itstorm.firebaseapp.com/)  
 
 
