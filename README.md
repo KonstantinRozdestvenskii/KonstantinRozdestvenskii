@@ -49,6 +49,7 @@
 [Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio.web.app/)  
 [Интернет-магазин "HomeDecor"](https://home-decor.web.app/)  
 [Сайт веб-студии "ITStorm"](https://itstorm.firebaseapp.com/)  
+[каталог чайных коллекций](https://tea-collection-spa.web.app/)
 
 
 ## Мои контакты:
