@@ -44,12 +44,13 @@
 [Лендинг для магазина французских пироженых "Macaroons"](https://maccaroons.web.app/)  
 [Лендинг для магазина летающих автомобилей "Horizon"](https://horizont.web.app/)  
 [Лендинг для магазина чайных коллекций](https://tea-landing.web.app)  
+[Лендинг для ресторана "SuperSuchi"](https://suchi-landing.web.app)  
 [Сайт планирования бюджета "LuminiconFinance"](https://luminicon-finance.web.app/)
 [Сайт тестирования "АйтилогияQuiz"](https://itlogia-quiz.web.app/)  
 [Панель управления фрилансерами и заказами "Freelance Studio"](https://freelance-studio.web.app/)  
 [Интернет-магазин "HomeDecor"](https://home-decor.web.app/)  
 [Сайт веб-студии "ITStorm"](https://itstorm.firebaseapp.com/)  
-[каталог чайных коллекций](https://tea-collection-spa.web.app/)
+[Каталог чайных коллекций](https://tea-collection-spa.web.app/)
 
 
 ## Мои контакты:
